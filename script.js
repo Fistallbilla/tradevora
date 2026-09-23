@@ -30,14 +30,13 @@ import {
 ========================================================= */
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAdCB2Vke4iXLm1zPj43cNQwC65gZlQ6Ns",
-  authDomain: "journal-38e0e.firebaseapp.com",
-  databaseURL: "https://journal-38e0e-default-rtdb.firebaseio.com",
-  projectId: "journal-38e0e",
-  storageBucket: "journal-38e0e.firebasestorage.app",
-  messagingSenderId: "382226906837",
-  appId: "1:382226906837:web:38df881c0f7beb24256c5c",
-  measurementId: "G-R6LXDMQ9K2"
+  apiKey: "AIzaSyBiXsi-UwIUWPzMdxIcxg7Z86AYgIgfWcI",
+  authDomain: "tradevora7.firebaseapp.com",
+  projectId: "tradevora7",
+  storageBucket: "tradevora7.firebasestorage.app",
+  messagingSenderId: "731682183358",
+  appId: "1:731682183358:web:8ce0e97ac17007b549e6ef",
+  measurementId: "G-LHTYVB2P5V"
 };
 
 const app = initializeApp(firebaseConfig);
